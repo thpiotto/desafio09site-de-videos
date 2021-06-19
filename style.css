@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(32, 32, 34);
+}
+
+div#titulo {
+    width: max;
+    height: 40px;
+    text-align: center;
+    /*background-color: rgb(88, 175, 54);*/
+}
+
+h1#titulo {
+    color: rgb(255, 255, 255);
+}
+
+div#videos {
+    width: max;
+    height: 520px;
+    text-align: center;
+    /*background-color: rgb(54, 105, 175);*/
+}
+
+div#qd-1 {
+    width: 421px;
+    height: 237px;
+    text-align: center;
+    /*background-color: rgb(63, 104, 122);*/
+    position: absolute;
+    top: 10%; /* posiciona na metade da tela */
+    left: 18%; /* posiciona na metade da tela */
+}
+
+div#qd-2 {
+    width: 421px;
+    height: 237px;
+    text-align: center;
+    /*background-color: rgb(63, 104, 122);*/
+    position: absolute;
+    top: 10%; /* posiciona na metade da tela */
+    left: 50%; /* posiciona na metade da tela */
+}
+
+div#qd-3 {
+    width: 421px;
+    height: 237px;
+    text-align: center;
+    /*background-color: rgb(63, 104, 122);*/
+    position: absolute;
+    top: 48%; /* posiciona na metade da tela */
+    left: 18%; /* posiciona na metade da tela */
+}
+
+div#qd-4 {
+    width: 421px;
+    height: 237px;
+    text-align: center;
+    /*background-color: rgb(63, 104, 122);*/
+    position: absolute;
+    top: 48%; /* posiciona na metade da tela */
+    left: 50%; /* posiciona na metade da tela */
+}
+
+div#rodape {
+    width: max;
+    height: max;
+    text-align: center;
+    /*background-color: rgb(175, 54, 175);*/
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+h2#rodape {
+    color: blanchedalmond;
+    font: Helvetica 
+}
